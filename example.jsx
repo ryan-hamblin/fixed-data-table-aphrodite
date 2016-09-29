@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {Table, Column, Cell} from 'fixed-data-table-2'; 
-import ExampleCell from './NavToGroupCell.jsx';
+import ExampleCell from './ExampleCell.jsx';
 import {StyleSheet, css} from 'aphrodite';
 
 class ExampleTable extends Component {
