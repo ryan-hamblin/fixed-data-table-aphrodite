@@ -10,7 +10,6 @@ class ExampleTable extends Component {
             tableWidth: 500
         }
         this._updateDimensions = this._updateDimensions.bind(this);
-        this._activityRoute = this._activityRoute.bind(this);
     }
     componentWillMount() {
         this._updateDimensions();
